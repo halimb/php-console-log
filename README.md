@@ -93,3 +93,5 @@ console_log($a, $b, $testClass);
 
 ![multiple example](https://raw.githubusercontent.com/halimb/php-console-log/master/img/multiple.png)
 
+
+
